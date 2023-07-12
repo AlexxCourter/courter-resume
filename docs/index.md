@@ -6,7 +6,7 @@ title: Alex Courter's Resume
 Aspiring developer and data analyst.
 
 <div id="webaddress">
-| <a href="https://www.linkedin.com/in/alex-courter/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/alex-courter/">LinkedIn</a>
 | <a href="https://github.com/AlexxCourter">GitHub</a>
 </div>
 
