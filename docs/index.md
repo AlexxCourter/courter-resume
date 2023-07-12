@@ -28,7 +28,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internship
 
-`January 2020 - June 2023`
+`January 2020 - Now`
 __Accelerated Motion Solutions__, Ocean, NJ
 
 - Published analysis articles on Cybersecurity
